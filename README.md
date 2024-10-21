@@ -1,4 +1,4 @@
-# BlazorWebApp_MicrosorAI_Sample1
+# BlazorWebApp MicrosorAI Sample1
 
 ## Create a new razor component
 
